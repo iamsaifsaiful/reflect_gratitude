@@ -1,0 +1,110 @@
+[
+  {
+    "month": 1,
+    "name": "Beginnings",
+    "intention": "January asks for a gentle start. Choose one small habit to carry with you, and let it grow at its own pace.",
+    "essayTitle": "Starting small, starting now",
+    "blogUrl": "https://www.example.com/blog/january",
+    "readMinutes": 4,
+    "palette": ["#F1DCC0", "#C59A72", "#8C5E3F"]
+  },
+  {
+    "month": 2,
+    "name": "Kindness",
+    "intention": "February turns toward the people around us. Notice the small kindnesses you give and receive each day.",
+    "essayTitle": "The quiet weight of kindness",
+    "blogUrl": "https://www.example.com/blog/february",
+    "readMinutes": 4,
+    "palette": ["#F2CFC4", "#C98476", "#93504A"]
+  },
+  {
+    "month": 3,
+    "name": "Growth",
+    "intention": "March is for noticing change. Look for the places where you are already growing, even slowly.",
+    "essayTitle": "Growth you can't see yet",
+    "blogUrl": "https://www.example.com/blog/march",
+    "readMinutes": 5,
+    "palette": ["#E3E4C4", "#9FA77F", "#66714F"]
+  },
+  {
+    "month": 4,
+    "name": "Curiosity",
+    "intention": "April invites questions. Follow one thing this month simply because it interests you.",
+    "essayTitle": "Following the question",
+    "blogUrl": "https://www.example.com/blog/april",
+    "readMinutes": 4,
+    "palette": ["#F0DDB3", "#C9A15A", "#8E6A30"]
+  },
+  {
+    "month": 5,
+    "name": "Bloom",
+    "intention": "May celebrates what has opened up. Let yourself enjoy the progress you've made without rushing on.",
+    "essayTitle": "Letting yourself bloom",
+    "blogUrl": "https://www.example.com/blog/may",
+    "readMinutes": 3,
+    "palette": ["#F1CFD5", "#C68B97", "#8C5462"]
+  },
+  {
+    "month": 6,
+    "name": "Light",
+    "intention": "June has the longest days. Spend some of that light on what makes you feel most like yourself.",
+    "essayTitle": "Long days, open hours",
+    "blogUrl": "https://www.example.com/blog/june",
+    "readMinutes": 4,
+    "palette": ["#F6E2AE", "#D9A24A", "#A06B26"]
+  },
+  {
+    "month": 7,
+    "name": "Rest",
+    "intention": "July reminds us that rest is part of the work. Make room for pauses without needing to earn them.",
+    "essayTitle": "In praise of the pause",
+    "blogUrl": "https://www.example.com/blog/july",
+    "readMinutes": 5,
+    "palette": ["#DCE3DA", "#8FA59A", "#5B7066"]
+  },
+  {
+    "month": 8,
+    "name": "Abundance",
+    "intention": "August is full. Notice what you already have plenty of, and where you could share it.",
+    "essayTitle": "Enough, and more than enough",
+    "blogUrl": "https://www.example.com/blog/august",
+    "readMinutes": 4,
+    "palette": ["#F3D1A6", "#D08A55", "#975232"]
+  },
+  {
+    "month": 9,
+    "name": "Renewal",
+    "intention": "September asks us to shed what no longer fits and make quiet room for what's next. Notice where you feel ready to begin again.",
+    "essayTitle": "The art of beginning again",
+    "blogUrl": "https://www.example.com/blog/september",
+    "readMinutes": 4,
+    "palette": ["#E7B27A", "#C87E52", "#9E4E33"]
+  },
+  {
+    "month": 10,
+    "name": "Harvest",
+    "intention": "October is for gathering what the year has grown so far. Notice what you've tended, and what is ready to be let go.",
+    "essayTitle": "Gathering what has grown",
+    "blogUrl": "https://www.example.com/blog/october",
+    "readMinutes": 5,
+    "palette": ["#EFC48A", "#B8743F", "#7E4524"]
+  },
+  {
+    "month": 11,
+    "name": "Gratitude",
+    "intention": "November slows down to say thank you. Write to, or about, someone who has shaped your year.",
+    "essayTitle": "Saying thank you out loud",
+    "blogUrl": "https://www.example.com/blog/november",
+    "readMinutes": 4,
+    "palette": ["#EBCDB8", "#B98468", "#7A4E3B"]
+  },
+  {
+    "month": 12,
+    "name": "Reflection",
+    "intention": "December looks back over the whole year together. Read some old entries and notice how far you've come.",
+    "essayTitle": "A year, looked at kindly",
+    "blogUrl": "https://www.example.com/blog/december",
+    "readMinutes": 6,
+    "palette": ["#E2D6E0", "#A58C9E", "#6E5466"]
+  }
+]

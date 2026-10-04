@@ -224,9 +224,13 @@ class MonthHeroCard extends StatelessWidget {
                           children: [
                             const Icon(Icons.link_rounded, size: 16, color: AppColors.onAccent),
                             const SizedBox(width: 6),
-                            Text(
-                              "Read this month's reflection",
-                              style: AppText.body(13, weight: FontWeight.w700, color: AppColors.onAccent),
+                            Flexible(
+                              child: Text(
+                                "Read this month's reflection",
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: AppText.body(13, weight: FontWeight.w700, color: AppColors.onAccent),
+                              ),
                             ),
                           ],
                         ),

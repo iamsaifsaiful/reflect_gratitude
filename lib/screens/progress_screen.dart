@@ -129,7 +129,14 @@ class _StreakHero extends StatelessWidget {
                               style: AppText.display(46, weight: FontWeight.w600, color: AppColors.onAccent, height: 1),
                             ),
                             const SizedBox(width: 8),
-                            Text('day streak', style: AppText.body(15, weight: FontWeight.w700, color: AppColors.onAccent)),
+                            Flexible(
+                              child: Text(
+                                'day streak',
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: AppText.body(15, weight: FontWeight.w700, color: AppColors.onAccent),
+                              ),
+                            ),
                           ],
                         ),
                         const SizedBox(height: 4),
